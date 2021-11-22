@@ -1,3 +1,9 @@
 will this work?
 
 take 2...
+
+Solution:
+
+git push -f origin main
+
+:D
